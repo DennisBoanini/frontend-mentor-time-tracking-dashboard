@@ -1,6 +1,6 @@
 import styles from './App.module.css'
 import Person from "./components/Person/Person";
-import jeremy from '../public/image-jeremy.png'
+import jeremy from './assets/image-jeremy.png'
 import React, { useState } from "react";
 import { Activity } from "./components/Activity/Activity";
 import data from './data.json';

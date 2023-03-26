@@ -57,31 +57,31 @@
 }
 
 .card.work {
-    background-image: url("./public/icon-work.svg");
+    background-image: url("../../assets/icon-work.svg");
     background-color: var(--light-red);
 }
 
 .card.play {
-    background-image: url("./public/icon-play.svg");
+    background-image: url("../../assets/icon-play.svg");
     background-color: var(--soft-blue);
 }
 
 .card.study {
-    background-image: url("./public/icon-study.svg");
+    background-image: url("../../assets/icon-study.svg");
     background-color: var(--light-red-2);
 }
 
 .card.exercise {
-    background-image: url("./public/icon-exercise.svg");
+    background-image: url("../../assets/icon-exercise.svg");
     background-color: var(--lime-green);
 }
 
 .card.social {
-    background-image: url("./public/icon-social.svg");
+    background-image: url("../../assets/icon-social.svg");
     background-color: var(--violet);
 }
 
 .card.self-care {
-    background-image: url("./public/icon-self-care.svg");
+    background-image: url("../../assets/icon-self-care.svg");
     background-color: var(--soft-orange);
 }
