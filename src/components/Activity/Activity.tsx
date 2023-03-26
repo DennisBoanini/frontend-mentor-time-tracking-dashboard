@@ -24,7 +24,7 @@ export function Activity(props: Props) {
             <div className={styles.info}>
                 <div className={styles.title}>
                     <span>{props.activity.title}</span>
-                    <img src="./public/icon-ellipsis.svg" alt={props.activity.title}/>
+                    <img src="../../assets/icon-ellipsis.svg" alt={props.activity.title}/>
                 </div>
                 <div className={styles.times}>
                     <span className={styles.actual}>{props.activity.timeframes[props.frame].current}hrs</span>
@@ -33,4 +33,4 @@ export function Activity(props: Props) {
             </div>
         </div>
     );
-};
+}
